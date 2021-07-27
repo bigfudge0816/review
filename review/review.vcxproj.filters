@@ -32,6 +32,12 @@
     <None Include="fragment.frag">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="light.vert">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="light.frag">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shader.h">
